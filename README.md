@@ -6,6 +6,8 @@ Witam!​‍​‌‍​‍‌​‍​‌‍​‍‌ Jestem FeniksX75 i mam 16
 
 Hello! I am FeniksX75 and I am 16 years old. I like tinkering with computers, playing around with Linux, and developing my skills in C++ and low-level programming. I test various architectures—from ARM64 to x86_64—and experiment with Vulkan, shaders, and classics such as Doom and Quake. Sometimes I compile programs myself with my own native flags to get the most out of my hardware. I love doing things my way and seeing how much I can really squeeze out of a computer.
 
+# Narzędzia / Tools 
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
